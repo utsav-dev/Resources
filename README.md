@@ -1,10 +1,13 @@
 # Resources
 
 I. Java
-1. Telusko Series
+1. Telusko Series - YT
 2. JDB-Online-Complier Programs
 3. Java-Tpoint
 4. GitHub Repos
+5. Strings - Kunal Kushwaha[YT]
+6. OOPS - Kunal Kushwaha[YT]
+7. File Handling - Kunal Kushwaha[YT]
 
 II. React
 1. Hooks Series(WDS)
